@@ -26,9 +26,7 @@
 - [Uso](#-uso)
 - [Modelo de Machine Learning](#-modelo-de-machine-learning)
 - [Estructura del Proyecto](#-estructura-del-proyecto)
-- [Contribuir](#-contribuir)
 - [Autor](#-autor)
-- [Licencia](#-licencia)
 
 ---
 
