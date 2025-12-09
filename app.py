@@ -25,18 +25,23 @@ st.markdown("""
         padding: 20px;
     }
     .info-box {
-        background-color: #f0f2f6;
+        background-color: rgba(78, 205, 196, 0.1);
         padding: 20px;
         border-radius: 10px;
         border-left: 5px solid #4ECDC4;
         margin: 20px 0;
+        color: inherit;
     }
     .metric-card {
-        background: white;
+        background: rgba(255, 255, 255, 0.05);
         padding: 20px;
         border-radius: 10px;
-        box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        box-shadow: 0 2px 4px rgba(0,0,0,0.3);
+        border: 1px solid rgba(78, 205, 196, 0.3);
         text-align: center;
+    }
+    .metric-card h3, .metric-card p {
+        color: inherit;
     }
     .stButton>button {
         width: 100%;
@@ -238,14 +243,13 @@ if predict_button:
 # Footer
 st.markdown("---")
 st.markdown("""
-<div style='text-align: center; padding: 30px; background-color: #f0f2f6; border-radius: 10px;'>
-    <p style='font-size: 18px; color: #555;'>
+<div style='text-align: center; padding: 30px; background-color: rgba(78, 205, 196, 0.1); border-radius: 10px; border: 1px solid rgba(78, 205, 196, 0.3);'>
+    <p style='font-size: 18px;'>
         <b>Desarrollado por:</b> Juan Felipe Gómez<br>
         <b>Institución:</b> Universidad Autónoma de Bucaramanga (UNAB)<br>
         <b>Año:</b> 2025<br>
-        © Todos los derechos reservados
     </p>
-    <p style='font-size: 14px; color: #888; margin-top: 10px;'>
+    <p style='font-size: 14px; opacity: 0.7; margin-top: 10px;'>
         🤖 Powered by Machine Learning | 🐍 Python | ⚡ Streamlit
     </p>
 </div>
