@@ -4,13 +4,13 @@
 
 ![Banner](https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800&h=200&fit=crop)
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://juanfelipegomezgarcia-cardiaco-streamlit-app.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://cardiacoappjfgg.streamlit.app/)
 [![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **Aplicación web de Machine Learning para predecir riesgos cardíacos basada en edad y colesterol**
 
-[Demo en Vivo](https://juanfelipegomezgarcia-cardiaco-streamlit-app.streamlit.app/) • [Reportar Bug](https://github.com/JuanFelipeGomezGarcia/Cardiaco_Streamlit/issues) • [Solicitar Feature](https://github.com/JuanFelipeGomezGarcia/Cardiaco_Streamlit/issues)
+[Demo en Vivo](https://cardiacoappjfgg.streamlit.app/) • [Reportar Bug](https://github.com/JuanFelipeGomezGarcia/Cardiaco_Streamlit/issues) • [Solicitar Feature](https://github.com/JuanFelipeGomezGarcia/Cardiaco_Streamlit/issues)
 
 </div>
 
